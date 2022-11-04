@@ -20,7 +20,7 @@ public class Ejercicio13 {
         ALUMNOS[1][0] = 7.9;
         ALUMNOS[1][1] = 5.2;
         ALUMNOS[1][2] = 5.7;
-        ALUMNOS[1][3] = 6.3;
+        ALUMNOS[1][3] = 3.3;
 
         // asigna notas del tercer alumno
         ALUMNOS[2][0] = 9.8;
